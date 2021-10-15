@@ -1,3 +1,8 @@
 AdminLTE depends on two main frameworks.
 1/ Bootstrap 5
 2/ Jquery 3.6.0
+
+Plugins:
+
+charts:
+    chartJS
