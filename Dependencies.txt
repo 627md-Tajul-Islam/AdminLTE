@@ -9,3 +9,13 @@ charts:
     Flot
     Morris.js
     Sparkline
+
+ Form Elements:
+       Bootstrap Slider
+       Ion Slider
+       Date Picker
+       Date Range Picker
+       Color Picker
+       Time Picker
+       iCheck
+       Input Mask
