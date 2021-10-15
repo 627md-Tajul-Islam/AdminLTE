@@ -13,3 +13,5 @@ Fixed: use the class .fixed to get a fixed header and sidebar.
 Collapsed Sidebar: use the class .sidebar-collapse to have a collapsed sidebar upon loading.
 Boxed Layout: use the class .layout-boxed to get a boxed layout that stretches only to 1250px.
 Top Navigation use the class .layout-top-nav to remove the sidebar and have your links at the top navbar.
+
+Important: To use this main header instead of the regular one, you must add the layout-top-nav class to the body tag.
