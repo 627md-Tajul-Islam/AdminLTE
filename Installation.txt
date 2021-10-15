@@ -3,3 +3,7 @@ Download From Github : https://github.com/ColorlibHQ/AdminLTE/releases
 Command Line
 
 Via NPM: npm install admin-lte --save
+
+Via Bower: bower install admin-lte
+
+Via Composer: composer require "almasaeed2010/adminlte=~2.4"
