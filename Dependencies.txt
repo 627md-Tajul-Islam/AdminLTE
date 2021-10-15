@@ -26,10 +26,10 @@ Editors
     CK Editor
 
  Other
- DataTables
- Full Calendar
- jQuery UI
- jQuery Knob
- jVector Map
- Slim Scroll
- Pace
+     DataTables
+     Full Calendar
+     jQuery UI
+     jQuery Knob
+     jVector Map
+     Slim Scroll
+     Pace
