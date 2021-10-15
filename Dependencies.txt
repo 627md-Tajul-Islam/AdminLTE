@@ -24,3 +24,12 @@ Editors
     Bootstrap
     WYSIHTML5
     CK Editor
+
+ Other
+ DataTables
+ Full Calendar
+ jQuery UI
+ jQuery Knob
+ jVector Map
+ Slim Scroll
+ Pace
