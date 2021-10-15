@@ -6,3 +6,6 @@ Plugins:
 
 charts:
     chartJS
+    Flot
+    Morris.js
+    Sparkline
