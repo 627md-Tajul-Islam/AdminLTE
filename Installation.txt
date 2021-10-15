@@ -1,1 +1,5 @@
 Download From Github : https://github.com/ColorlibHQ/AdminLTE/releases
+
+Command Line
+
+Via NPM: npm install admin-lte --save
