@@ -19,3 +19,8 @@ charts:
        Time Picker
        iCheck
        Input Mask
+
+Editors
+    Bootstrap
+    WYSIHTML5
+    CK Editor
