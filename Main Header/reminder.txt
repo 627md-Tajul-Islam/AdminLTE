@@ -1,0 +1,1 @@
+To use this main header instead of the regular one, you must add the layout-top-nav class to the body tag.
